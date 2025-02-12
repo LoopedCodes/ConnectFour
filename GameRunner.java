@@ -2,7 +2,7 @@
 
 // Let's play Connect Four inside of this script instead!
 
-// |   |   |   |   |   |   |
+// |   |   |   |   |   |   | 🔥
 // |   |   |   |   |   |   |
 // |   |   |   |   |   |   |
 // |   |   |   |   |   |   |

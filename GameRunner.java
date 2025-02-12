@@ -1,4 +1,16 @@
 
+
+// Let's play Connect Four inside of this script instead!
+
+// |   |   |   |   |   |   | 🔥
+// |   |   |   |   |   |   |
+// |   |   |   |   |   |   |
+// |   |   |   |   |   |   |
+// |   |   |   |   |   |   |
+// |   |   | 0 |   |   |   |
+
+
+
 public class GameRunner {
 
     private static GameBoard gameBoard;
